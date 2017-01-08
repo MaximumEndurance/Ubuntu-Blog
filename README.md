@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+##Part 1:Creating A Live USB drive
 
-You can use the [editor on GitHub](https://github.com/MaximumEndurance/Ubuntu-Blog/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+1. Google search "Download Ubuntu"
+2. Download Ubuntu version 16.something.
+3. Now download Universal USB Installer(UUI). This will create a live USB. Directly booting from the ISO file (that we downloaded is not possible).
+4. Install UUI.
+5. In UUI, select the drive letter (E, F ,G etc) of the pendrive that you inserted. For the other blank chhos the ISO file of ubuntu (lies probably in your Downloads directory) adn then wait. 
+6. A typical conversion to live USB may take 15-30 minutes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Part 1 complete. Congrats!
 
-### Markdown
+##Part 2:Booting into Ubuntu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. From the Start screen search for Update and Recovery --> Advanced Startup Options --> Restart Now.
+2. A blue colored screen opens now.
+3. Choose "Use a USB device"
+4. Then select your device (preferrably knowing the brand of pen drive would work)
 
-```markdown
-Syntax highlighted code block
+Part 2 complete: You are now booting into Ubuntu
 
-# Header 1
-## Header 2
-### Header 3
+##Part 3: Installing Ubuntu
 
-- Bulleted
-- List
+1. We notice that a black screen appears with 4 options.
+Choose "Try Ubuntu without installing". 
+Note: it is not in best practise to go for "install Ubuntu" directly and better to first check if our system is capable og booting into it.
+2. One violet screen later you boot into the Ubuntu Desktop.
+3. Tap the second icon "Install Ubuntu 16.10" (version may be different).
+4. Now might be the best time to connect to the Internet. Ubuntu depends on several third-party softwares (softwares sourced out of Ubuntu) so trust it, its worthwhile to connect to the Internet.
+-------------If using Internet requires logging into then
+: Launch Firefox (from the left side vertical bar you see --> Go to university URL and login) )
 
-1. Numbered
-2. List
+Part 3 complete : Installation window opens up.
 
-**Bold** and _Italic_ and `Code` text
+##Part 4: Selecting right options while installing
 
-[Link](url) and ![Image](src)
-```
+For most of the part you will have to go on clicking next, next and next here.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Be careful with the second window though. 
+	You will have 2 options:
+	
+	a)Choose to install alongside Windows Boot Manager
+	b)Erase disk and install Ubuntu
+	
+	Choose a)
+	If you choose it will format your hard disk and wipe out Windows.
+	
+2. For choosing time instead of the default Kolkata, search for India time. India time is regularly matched the Internet time, so saves you the horrors of updating time again.
 
-### Jekyll Themes
+3. In the window for partitions, assign a size of 70-100GB for Ubuntu (it will last you for quite a while). Use the slider in the middle to adjust the partitions.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaximumEndurance/Ubuntu-Blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Ubuntu stands for "I am what I am because of what we are"
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Welcome to the OpenSource Community!
