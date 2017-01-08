@@ -23,9 +23,7 @@
 
 7. A typical conversion to live USB may take 15-30 minutes.
 
-Part 1 complete. Congrats!
-
-###Part 1a) 
+Part 1 complete. Congrats! 
 
 ## Part 2:Booting into Ubuntu
 
