@@ -79,11 +79,12 @@ Now we notice something different when we boot.
 
 A violet-colored window comes up having 4 options. This window is quite similar to black-colored window we encoutered earlier.
 This is called the _grub_ . 
-The first option here loads the Ubuntu OS.
-The second option is for Advanced Booting options (not of interest as of now)
-The third option "Windows Boot Manager" loads into Windows.
-The fourth option "System Setup" loads into your BIOS.
 
-_Ubuntu stands for "I am what I am because of what we are"_
+1. The first option here loads the Ubuntu OS.
+2. The second option is for Advanced Booting options (not of interest as of now)
+3. The third option "Windows Boot Manager" loads into Windows.
+4. The fourth option "System Setup" loads into your BIOS.
+
+**Ubuntu** _stands for "I am what I am because of what we are"_
 
 Welcome to the OpenSource Community!
