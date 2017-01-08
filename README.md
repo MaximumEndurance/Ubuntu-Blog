@@ -45,7 +45,8 @@ Part 3 complete : Installation window opens up.
 
 For most of the part you will have to go on clicking next, next and next here.
 
-1. Click continue on the first page.
+1. Click continue on the first page.     
+
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-01-17.png?raw=true)
 
 Here it is recommended that you check the options for "Installing updates" as well as "Installing third party software".
@@ -56,13 +57,13 @@ Leave the "Turn off Secure Boot" option disabled for now.
 2. Be careful with the second window though.
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-04-34.png?raw=true)
-	You will have 2 options:
 	
-	a) Choose to install alongside Windows Boot Manager
-	b) Erase disk and install Ubuntu
+You will have 2 options
+a) Choose to install alongside Windows Boot Manager
+b) Erase disk and install Ubuntu
 	
-	Choose a)
-	Note: If you choose b) you will end up  format your hard disk and wipe out Windows.
+Choose a)
+Note: If you choose b) you will end up  format your hard disk and wipe out Windows.
 	
 3. For choosing time instead of the default Kolkata, search for India time. India time is regularly matched the Internet time, so saves you the horrors of updating time again.
 
