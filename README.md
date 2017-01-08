@@ -45,7 +45,7 @@ Part 3 complete : Installation window opens up.
 
 For most of the part you will have to go on clicking next, next and next here.
 
-1. Click continue on the first page.     
+ Click continue on the first page.     
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-01-17.png?raw=true)
 
@@ -54,7 +54,7 @@ Leave the "Turn off Secure Boot" option disabled for now.
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-01-56.png?raw=true)
 
-2. Be careful with the second window though.
+ Be careful with the second window though.
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-04-34.png?raw=true)
 	
@@ -65,11 +65,11 @@ b) Erase disk and install Ubuntu
 Choose a)
 Note: If you choose b) you will end up  format your hard disk and wipe out Windows.
 	
-3. For choosing time instead of the default Kolkata, search for India time. India time is regularly matched the Internet time, so saves you the horrors of updating time again.
+ For choosing time instead of the default Kolkata, search for India time. India time is regularly matched the Internet time, so saves you the horrors of updating time again.
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-06-49.png?raw=true)
 
-4. In the window for partitions, assign a size of 70-100GB for Ubuntu (it will last you for quite a while). Use the slider in the middle to adjust the partitions.
+ In the window for partitions, assign a size of 70-100GB for Ubuntu (it will last you for quite a while). Use the slider in the middle to adjust the partitions.
 
 _Ubuntu stands for "I am what I am because of what we are"_
 
