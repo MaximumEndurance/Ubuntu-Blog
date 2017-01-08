@@ -70,6 +70,19 @@ Note: If you choose b) you will end up  format your hard disk and wipe out Windo
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-06-49.png?raw=true)
 
  In the window for partitions, assign a size of 70-100GB for Ubuntu (it will last you for quite a while). Use the slider in the middle to adjust the partitions.
+ 
+## Part 5:Restarting Ubuntu
+
+After installation finishes, click the "Restart Now" option in the dialog box that appears.
+
+Now we notice something different when we boot.
+
+A violet-colored window comes up having 4 options. This window is quite similar to black-colored window we encoutered earlier.
+This is called the _grub_ . 
+The first option here loads the Ubuntu OS.
+The second option is for Advanced Booting options (not of interest as of now)
+The third option "Windows Boot Manager" loads into Windows.
+The fourth option "System Setup" loads into your BIOS.
 
 _Ubuntu stands for "I am what I am because of what we are"_
 
