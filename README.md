@@ -8,16 +8,18 @@
 ## Part 1:Creating A Live USB drive
 
 1. Download Ubuntu version ~16. [Click Here](releases.ubuntu.com/16.04.1/ubuntu-16.04.1-desktop-amd64.iso?_ga=1.267151886.1068213053.1475231553) to download Ubuntu. 
-3. Now download Universal USB Installer(UUI). This will create a live USB. Directly booting from the ISO file (that we downloaded is not possible). Link for downloading UUI
+2. Now download Universal USB Installer(UUI). This will create a live USB. Directly booting from the ISO file (that we downloaded is not possible). Link for downloading UUI
 	[Download UUI](https://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.7.0.exe)
-4. Install UUI.
-5. Select the linux distro, here Ubuntu.
-6. In the link for download location  choose the location of the ubuntu file downloaded (lies probably in your Downloads directory).
-7. Select the drive letter (E, F ,G etc) of the pendrive that you inserted 
+3. Install UUI.
+4. Select the linux distro, here Ubuntu.
+5. In the link for download location  choose the location of the ubuntu file downloaded (lies probably in your Downloads directory).
+6. Select the drive letter (E, F ,G etc) of the pendrive that you inserted 
 	Note: Attempt this step with caution and verify the drive letter carefully.  
-8. A typical conversion to live USB may take 15-30 minutes.
+7. A typical conversion to live USB may take 15-30 minutes.
 
 Part 1 complete. Congrats!
+
+###Part 1a) 
 
 ## Part 2:Booting into Ubuntu
 
@@ -31,7 +33,7 @@ Part 2 complete: You are now booting into Ubuntu
 ## Part 3: Installing Ubuntu
 
 1. We notice that a black screen appears with 4 options.
-Choose "Try Ubuntu without installing". 
+Choose _Try Ubuntu without installing_. 
 Note: it is not in best practise to go for "install Ubuntu" directly and better to first check if our system is capable og booting into it.
 2. One violet screen later you boot into the Ubuntu Desktop.
 3. Tap the second icon "Install Ubuntu 16.10" (version may be different).
@@ -49,7 +51,7 @@ For most of the part you will have to go on clicking next, next and next here.
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-01-17.png?raw=true)
 
-Here it is recommended that you check the options for "Installing updates" as well as "Installing third party software".
+Here it is recommended that you check the options for _Installing updates_ as well as _Installing third party software_.
 Leave the "Turn off Secure Boot" option disabled for now.
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-01-56.png?raw=true)
@@ -62,7 +64,7 @@ You will have 2 options
 a) Choose to install alongside Windows Boot Manager
 b) Erase disk and install Ubuntu
 	
-Choose a)
+**Choose a)**
 Note: If you choose b) you will end up  format your hard disk and wipe out Windows.
 	
  For choosing time instead of the default Kolkata, search for India time. India time is regularly matched the Internet time, so saves you the horrors of updating time again.
@@ -73,7 +75,7 @@ Note: If you choose b) you will end up  format your hard disk and wipe out Windo
  
 ## Part 5:Restarting Ubuntu
 
-After installation finishes, click the "Restart Now" option in the dialog box that appears.
+After installation finishes, click the **Restart Now** option in the dialog box that appears.
 
 Now we notice something different when we boot.
 
