@@ -10,11 +10,17 @@
 1. Download Ubuntu version ~16. [Click Here](releases.ubuntu.com/16.04.1/ubuntu-16.04.1-desktop-amd64.iso?_ga=1.267151886.1068213053.1475231553) to download Ubuntu. 
 2. Now download Universal USB Installer(UUI). This will create a live USB. Directly booting from the ISO file (that we downloaded is not possible). Link for downloading UUI
 	[Download UUI](https://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.7.0.exe)
-3. Install UUI.
+3. Run UUI. 
+
+![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/master/1.PNG?raw=true)
+
 4. Select the linux distro, here Ubuntu.
 5. In the link for download location  choose the location of the ubuntu file downloaded (lies probably in your Downloads directory).
 6. Select the drive letter (E, F ,G etc) of the pendrive that you inserted 
-	Note: Attempt this step with caution and verify the drive letter carefully.  
+	Note: Attempt this step with caution and verify the drive letter carefully. 
+
+![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/master/2.PNG?raw=true)
+
 7. A typical conversion to live USB may take 15-30 minutes.
 
 Part 1 complete. Congrats!
