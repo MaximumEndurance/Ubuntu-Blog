@@ -1,15 +1,16 @@
-##Part 1:Creating A Live USB drive
+## Part 1:Creating A Live USB drive
 
 1. Google search "Download Ubuntu"
 2. Download Ubuntu version 16.something.
-3. Now download Universal USB Installer(UUI). This will create a live USB. Directly booting from the ISO file (that we downloaded is not possible).
+3. Now download Universal USB Installer(UUI). This will create a live USB. Directly booting from the ISO file (that we downloaded is not possible). Link for downloading UUI
+[Download UUI](https://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.7.0.exe)
 4. Install UUI.
 5. In UUI, select the drive letter (E, F ,G etc) of the pendrive that you inserted. For the other blank chhos the ISO file of ubuntu (lies probably in your Downloads directory) adn then wait. 
 6. A typical conversion to live USB may take 15-30 minutes.
 
 Part 1 complete. Congrats!
 
-##Part 2:Booting into Ubuntu
+## Part 2:Booting into Ubuntu
 
 1. From the Start screen search for Update and Recovery --> Advanced Startup Options --> Restart Now.
 2. A blue colored screen opens now.
@@ -18,7 +19,7 @@ Part 1 complete. Congrats!
 
 Part 2 complete: You are now booting into Ubuntu
 
-##Part 3: Installing Ubuntu
+## Part 3: Installing Ubuntu
 
 1. We notice that a black screen appears with 4 options.
 Choose "Try Ubuntu without installing". 
@@ -31,7 +32,7 @@ Note: it is not in best practise to go for "install Ubuntu" directly and better 
 
 Part 3 complete : Installation window opens up.
 
-##Part 4: Selecting right options while installing
+## Part 4: Selecting right options while installing
 
 For most of the part you will have to go on clicking next, next and next here.
 
@@ -48,6 +49,6 @@ For most of the part you will have to go on clicking next, next and next here.
 
 3. In the window for partitions, assign a size of 70-100GB for Ubuntu (it will last you for quite a while). Use the slider in the middle to adjust the partitions.
 
-Ubuntu stands for "I am what I am because of what we are"
+_Ubuntu stands for "I am what I am because of what we are"_
 
 Welcome to the OpenSource Community!
