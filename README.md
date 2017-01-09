@@ -43,7 +43,7 @@ Note: it is not in best practise to go for "install Ubuntu" directly and better 
 3. Tap the second icon "Install Ubuntu 16.10" (version may be different).
 4. Now might be the best time to connect to the Internet. Ubuntu depends on several third-party softwares (softwares sourced out of Ubuntu) so trust it, its worthwhile to connect to the Internet.
 -------------If using Internet requires logging into then
-: Launch Firefox (from the left side vertical bar you see --> Go to university URL and login) )
+ Launch Firefox (from the left side vertical bar you see --> Go to university URL and login) )
 
 Part 3 complete : Installation window opens up.
 
@@ -70,12 +70,35 @@ b) Erase disk and install Ubuntu
 	
 **Choose a)**
 Note: If you choose b) you will end up  format your hard disk and wipe out Windows.
+
+ Partition page appears 
+
+
+Double click on the partition that has enough space for installing Ubuntu(~8GB)
+
+![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2022-48-54.png?raw=true)
+
+Ignore the prompt for swap space as of now (or you can go back or select swap instead of root in _"Mount Options"_)
+
+![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2022-49-20.png?raw=true)
+
+Confirm setting up of new partitions
+
+![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2022-49-34.png?raw=true)
+
+Choose username and password for your laptop. (Your take here)
+
+![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-10%2004-21-28.png?raw=true)
 	
- For choosing time instead of the default Kolkata, search for India time. India time is regularly matched the Internet time, so saves you the horrors of updating time again.
+ For choosing time, instead of the default Kolkata, search for India time. India time is regularly updaed with the Internet time, so saves you the horrors of resetting your CPU clock again and again.
 
 ![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-09%2001-06-49.png?raw=true)
 
- In the window for partitions, assign a size of 70-100GB for Ubuntu (it will last you for quite a while). Use the slider in the middle to adjust the partitions.
+**Note** _This part might not appear during your installation_ .In the window for partitions, assign a size of 70-100GB for Ubuntu (it will last you for quite a while). Use the slider in the middle to adjust the partitions.
+ 
+ Final page appears. This is the page that shows the progress of installation.
+
+![Image](https://github.com/MaximumEndurance/Ubuntu-Blog/blob/gh-pages/Screenshot%20from%202017-01-10%2004-23-52.png?raw=true)
  
 ## Part 5:Restarting Ubuntu
 
