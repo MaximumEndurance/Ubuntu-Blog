@@ -1,6 +1,4 @@
 # Ubuntu-Blog
-Guide to installing ubuntu on Windows 
+Guide to installing Ubuntu on Windows 
 
-Update : 14-Jan-17
 
-Google Analytics link unsuccessful.
