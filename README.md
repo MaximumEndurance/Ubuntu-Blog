@@ -7,7 +7,7 @@
 
 ## Part 1:Creating A Live USB drive
 
-1. Download Ubuntu version ~16. [Click Here](releases.ubuntu.com/16.04.1/ubuntu-16.04.1-desktop-amd64.iso?_ga=1.267151886.1068213053.1475231553) to download Ubuntu. 
+1. Download the latest Ubuntu version. [Click Here](https://www.ubuntu.com/download/desktop) to download Ubuntu. 
 2. Now download Universal USB Installer(UUI). This will create a live USB. Directly booting from the ISO file (that we downloaded is not possible). Link for downloading UUI
 	[Download UUI](https://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.7.0.exe)
 3. Run UUI. 
